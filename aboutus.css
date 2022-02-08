@@ -11,7 +11,7 @@ body{
     background-color: #f1f1f1;
 }
 .about{
-    background: url(../images/AB.jpg) no-repeat left;
+    background: url(./AB.jpg) no-repeat left;
     background-size: 100%;
     background-color: #fdfdfd;
     overflow: hidden;

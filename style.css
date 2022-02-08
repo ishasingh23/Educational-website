@@ -139,7 +139,7 @@ ul{
 /*site title*/
 
 main .site-title{
-    background: url(../images/AI_cover-2.jpg);
+    background: url(./AI_cover-2.jpg);
     background-size: cover;
     height: 70vh;
     display: flex;
